@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "nodemon:run": "nodemon server.js -e js,hbs,html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
